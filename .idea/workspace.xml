@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92fccee4-74b8-46ec-b18a-92d15d08ddcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mycss3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss3.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -21,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/mycss3.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5195">
-              <caret line="1012" column="26" selection-start-line="1012" selection-start-column="26" selection-end-line="1012" selection-end-column="26" />
+            <state relative-caret-position="42415">
+              <caret line="2495" lean-forward="true" selection-start-line="2495" selection-end-line="2495" />
             </state>
           </provider>
         </entry>
@@ -124,8 +125,8 @@
         <option value="$PROJECT_DIR$/css/base.css" />
         <option value="$PROJECT_DIR$/css/mycss.css" />
         <option value="$PROJECT_DIR$/css/mycss2.css" />
-        <option value="$PROJECT_DIR$/css/mycss3.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/mycss3.css" />
       </list>
     </option>
   </component>
@@ -282,12 +283,12 @@
       <workItem from="1548665161909" duration="2211000" />
       <workItem from="1548683587029" duration="3303000" />
       <workItem from="1548951159173" duration="507000" />
-      <workItem from="1548954160651" duration="212000" />
+      <workItem from="1548954160651" duration="388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="392771000" />
+    <option name="totallyTimeSpent" value="392947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -543,17 +544,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/mycss3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5195">
-          <caret line="1012" column="26" selection-start-line="1012" selection-start-column="26" selection-end-line="1012" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mycss3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42415">
+          <caret line="2495" lean-forward="true" selection-start-line="2495" selection-end-line="2495" />
         </state>
       </provider>
     </entry>
