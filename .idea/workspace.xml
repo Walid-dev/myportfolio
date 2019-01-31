@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92fccee4-74b8-46ec-b18a-92d15d08ddcc" name="Default Changelist" comment="" />
+    <list default="true" id="92fccee4-74b8-46ec-b18a-92d15d08ddcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/mycss3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss3.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,20 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="525" column="44" selection-start-line="525" selection-start-column="44" selection-end-line="525" selection-end-column="44" />
+            <state relative-caret-position="442">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/mycss.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/mycss3.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="1358" column="59" selection-start-line="1358" selection-start-column="39" selection-end-line="1358" selection-end-column="59" />
+            <state relative-caret-position="5195">
+              <caret line="1012" column="26" selection-start-line="1012" selection-start-column="26" selection-end-line="1012" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -31,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4641">
-              <caret line="273" column="28" selection-start-line="273" selection-start-column="28" selection-end-line="273" selection-end-column="28" />
+            <state relative-caret-position="731">
+              <caret line="43" column="3" selection-start-line="43" selection-end-line="43" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -52,47 +54,51 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>paral</find>
-      <find>&lt;i</find>
-      <find>.navbar-expand-lg .navbar-nav .nav-link</find>
-      <find>hover</find>
-      <find>#mainNav .navbar-nav .nav-item .nav-link</find>
-      <find>.line-typewriter</find>
-      <find>ml7</find>
-      <find>ml1</find>
-      <find>.ml1</find>
-      <find>section h2.section-heading</find>
-      <find>certifi</find>
-      <find>#portfolio .portfolio-item .portfolio-caption p</find>
-      <find>para</find>
-      <find>portfolio-item</find>
-      <find>media</find>
-      <find>fade</find>
-      <find>h2</find>
-      <find>section-heading</find>
-      <find>portf</find>
       <find>myfooter ul</find>
       <find>55</find>
       <find>loader</find>
       <find>.line-typewriter2</find>
-      <find>footer</find>
       <find>portfolio .portfolio-item .portfolio-link .portfolio-hover</find>
       <find>#portfolio-hover-webagency</find>
       <find>portfolio</find>
       <find>#portfolio .portfolio-item .portfolio-link .portfolio-hover</find>
-      <find>parall</find>
       <find>portfoli</find>
+      <find>footer</find>
+      <find>certif</find>
+      <find>loader2</find>
+      <find>stunn</find>
+      <find>eas</find>
+      <find>font-si</find>
+      <find>cms</find>
+      <find>paral</find>
+      <find>top:50%</find>
+      <find>top: 50%</find>
+      <find>shinn</find>
+      <find>mirr</find>
+      <find>head</find>
+      <find>sectio</find>
+      <find>sec</find>
+      <find>para</find>
+      <find>top</find>
+      <find>parall</find>
+      <find>webkit</find>
+      <find>page-image</find>
+      <find>social</find>
     </findStrings>
     <replaceStrings>
       <replace>#mainNav .navbar-nav .nav-item .nav-link</replace>
       <replace>min</replace>
       <replace>media</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -116,13 +122,15 @@
         <option value="$PROJECT_DIR$/css/component.css" />
         <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/css/base.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/mycss.css" />
+        <option value="$PROJECT_DIR$/css/mycss2.css" />
+        <option value="$PROJECT_DIR$/css/mycss3.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -135,13 +143,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="myportfolio work copie 6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myportfolio work copie 6" type="462c0819:PsiDirectoryNode" />
+              <item name="myportfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myportfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="myportfolio work copie 6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myportfolio work copie 6" type="462c0819:PsiDirectoryNode" />
-              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="myportfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,6 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -260,17 +269,31 @@
       <workItem from="1547819307276" duration="11349000" />
       <workItem from="1547892999875" duration="5487000" />
       <workItem from="1547985749000" duration="1111000" />
+      <workItem from="1548067883131" duration="163000" />
+      <workItem from="1548165210743" duration="362000" />
+      <workItem from="1548227200416" duration="125000" />
+      <workItem from="1548361751503" duration="5640000" />
+      <workItem from="1548399845557" duration="1871000" />
+      <workItem from="1548413153030" duration="105000" />
+      <workItem from="1548416690740" duration="8637000" />
+      <workItem from="1548494238012" duration="13744000" />
+      <workItem from="1548590407577" duration="15726000" />
+      <workItem from="1548631306629" duration="351000" />
+      <workItem from="1548665161909" duration="2211000" />
+      <workItem from="1548683587029" duration="3303000" />
+      <workItem from="1548951159173" duration="507000" />
+      <workItem from="1548954160651" duration="212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338911000" />
+    <option name="totallyTimeSpent" value="392771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26575932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26934096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,7 +339,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript.js" />
+    <entry file="file://$PROJECT_DIR$/Javascript.js" />
     <entry file="file://$PROJECT_DIR$/js/bootstrap.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -373,14 +396,7 @@
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/scss/_footer.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -515,8 +531,8 @@
     <entry file="file://$PROJECT_DIR$/css/agency.css" />
     <entry file="file://$PROJECT_DIR$/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4641">
-          <caret line="273" column="28" selection-start-line="273" selection-start-column="28" selection-end-line="273" selection-end-column="28" />
+        <state relative-caret-position="731">
+          <caret line="43" column="3" selection-start-line="43" selection-end-line="43" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -527,17 +543,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/mycss3.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="525" column="44" selection-start-line="525" selection-start-column="44" selection-end-line="525" selection-end-column="44" />
+        <state relative-caret-position="5195">
+          <caret line="1012" column="26" selection-start-line="1012" selection-start-column="26" selection-end-line="1012" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/mycss.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="1358" column="59" selection-start-line="1358" selection-start-column="39" selection-end-line="1358" selection-end-column="59" />
+        <state relative-caret-position="442">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
